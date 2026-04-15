@@ -34,7 +34,7 @@ All programs are implemented by **Omkar Kaware** as part of the practical examin
 
 ### 🔧 Clone the Repository
 ```bash
-git clone https://github.com/OmkarCodes05/oopc.git
+git clone https://github.com/OmkarCodes05/oopcpp.git
 ```
 
 ### 📁 Navigate to Folder
