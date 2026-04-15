@@ -34,7 +34,7 @@ All programs are implemented by **Omkar Kaware** as part of the practical examin
 
 ### 🔧 Clone the Repository
 ```bash
-git clone https://github.com/your-username/oopc.git
+git clone https://github.com/OmkarCodes05/oopc.git
 ```
 
 ### 📁 Navigate to Folder
@@ -44,12 +44,12 @@ cd oopc
 
 ### ⚙️ Compile the Program
 ```bash
-g++ program.cpp -o program
+g++ filename.cpp
 ```
 
 ### ▶️ Run the Program
 ```bash
-./program
+./a.out
 ```
 
 ---
