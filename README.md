@@ -20,7 +20,7 @@ All programs are implemented by **Omkar Kaware** as part of the practical examin
 - Function Overloading  
 - Operator Overloading  
 - Encapsulation and Abstraction  
-- File Handling (if included)  
+- File Handling 
 
 ---
 
